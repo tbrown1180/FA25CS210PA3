@@ -6,3 +6,6 @@ started working on the bool dfs and the logic for checking bounds, walls, alread
 
 4/21
 fished the dfs section by working on checking if exit is reached and by exploring neighbors. The for loop in the exploring neighbors section checks tries to move in all four directions to try and find a path. The if statment after checks to see if the move is valid and if it is it keeps track of the last space we were on so we don't revist spaces. 
+
+4/22
+uncommented the section in the main function and ran the program. Everything seems to work well, it takes the demensions I input, displays the maze and tells me the path taken and if there is an exit.
